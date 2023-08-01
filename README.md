@@ -16,3 +16,7 @@ You'll need to install the bluepy Python library (https://pypi.org/project/bluep
 
 6th Feb 2022
 thermobeacon.py update with more elegant code (thanks fleminra), and now logs up time (in days) and battery voltage (hopefully, time will tell if this is what that field is)
+
+1st Aug 2023
+Private changes for private Smarthome
+Measurement values from 4 Thermobeacon will tranfered into a MariaDB 
