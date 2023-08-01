@@ -20,3 +20,7 @@ thermobeacon.py update with more elegant code (thanks fleminra), and now logs up
 1st Aug 2023
 Private changes for private Smarthome
 Measurement values from 4 Thermobeacon will tranfered into a MariaDB 
+![grafik](https://github.com/StRinke/thermobeacon/assets/55083738/3c406e35-8370-481b-9eb6-28221e86269b)
+
+![grafik](https://github.com/StRinke/thermobeacon/assets/55083738/dedc9ccb-afdc-4d69-b100-2b417ededf37)
+
